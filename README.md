@@ -121,6 +121,8 @@ Other option
 dve -full64 &
 A DVE environment will open.
 DVE Waveform Verification
+<img width="1887" height="972" alt="exp4" src="https://github.com/user-attachments/assets/f93405f3-f7e8-40ae-a107-f2010445869d" />
+
 <img width="1887" height="972" alt="exp4" src="https://github.com/user-attachments/assets/4e578b53-18cb-4707-b0ff-25f3c49a17d0" />
 
 In DVE:
@@ -150,6 +152,7 @@ The 2:1 Multiplexer and 1:2 Demultiplexer were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
+
 
 
 ## Viva-Voce Questions
